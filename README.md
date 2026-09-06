@@ -2,6 +2,7 @@
 
 ### Data Analyst | System Analyst | Application Support Analyst | .NET Developer
 
+[![Profile Views](https://komarev.com/ghpvc/?username=MayThinnThinnKhaing&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/MayThinnThinnKhaing)
 
 ---
 
