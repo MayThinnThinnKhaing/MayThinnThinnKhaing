@@ -98,7 +98,7 @@ I'm currently pursuing a **Master of Information Technology (Data Mining & Artif
 | **Regional Dynamics 365 F&O Rollout** | Acted as Regional Business Analyst for a Dynamics 365 Finance & Operations rollout across Singapore, Malaysia, and Hong Kong — requirements gathering, UAT, and release impact tracking. | Dynamics 365 Finance & Operations |
 | **Online Bidding System & Liferay Intranet** | Designed and developed an online bidding system web application and administered a Liferay-based intranet CMS platform. | VB.NET, Liferay, IIS |
 | **Accounting ERP & POS System** | Led development of an Accounting ERP system and Point-of-Sale system, covering the full SDLC. | ASP.NET, C#, SQL Server |
-
+| **Automated Daily Sales Extraction Report** | Built an automated daily reporting workflow that extracts and aggregates payment-type sales data across multiple venues, then emails a formatted summary to management on a schedule. | SQL Server, Automation/Scheduled Jobs, HTML Email Templating |
 ---
 
 ## 🎓 Education
